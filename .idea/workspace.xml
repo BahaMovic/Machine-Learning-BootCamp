@@ -5,7 +5,12 @@
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MACHINE LEARNING FROM SCRATCH WITH SENTDEX/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MACHINE LEARNING FROM SCRATCH WITH SENTDEX/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PCA/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear Regression/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear Regression/index_bootcamp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear Regression/index_from_scratch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recommender System/index.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tensorflow/check.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WebApplication/templates/home.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../index.py" afterDir="false" />
@@ -49,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/KMeans Cluster/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state>
+              <caret selection-end-line="4" selection-end-column="52" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -58,14 +63,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PCA/index.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
               <folding>
                 <element signature="e#38#57#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Recommender System/index.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Recommender System/Movie_Id_Titles">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Recommender System/u.data">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-722">
+              <caret line="34" column="3" selection-start-line="34" selection-end-line="34" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -82,6 +117,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>feat</find>
+      <find>bat</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,6 +138,8 @@
         <option value="$PROJECT_DIR$/SVM/index.py" />
         <option value="$PROJECT_DIR$/KMeans Cluster/index.py" />
         <option value="$PROJECT_DIR$/PCA/index.py" />
+        <option value="$PROJECT_DIR$/Recommender System/Movie_Id_Titles" />
+        <option value="$PROJECT_DIR$/Recommender System/index.py" />
       </list>
     </option>
   </component>
@@ -128,7 +166,7 @@
             <path>
               <item name="Machine Learning Bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine Learning Bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="PCA" type="462c0819:PsiDirectoryNode" />
+              <item name="Recommender System" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.index (4)">
+  <component name="RunManager" selected="Python.index (5)">
     <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine Learning Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="index (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine Learning Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,11 +284,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KNN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Recommender System" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KNN/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Recommender System/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.index (5)" />
         <item itemvalue="Python.index (4)" />
         <item itemvalue="Python.index (3)" />
         <item itemvalue="Python.index (1)" />
         <item itemvalue="Python.index (2)" />
-        <item itemvalue="Python.index" />
       </list>
     </recent_temporary>
   </component>
@@ -411,16 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/KMeans Cluster/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Decision Tree/index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -441,12 +469,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/KMeans Cluster/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommender System/u.item">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret column="19" selection-start-column="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommender System/u.data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-722">
+          <caret line="34" column="3" selection-start-line="34" selection-end-line="34" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PCA/index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
           <folding>
             <element signature="e#38#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommender System/Movie_Id_Titles">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Recommender System/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
