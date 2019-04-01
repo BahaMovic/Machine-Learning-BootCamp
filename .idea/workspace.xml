@@ -5,7 +5,7 @@
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MACHINE LEARNING FROM SCRATCH WITH SENTDEX/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MACHINE LEARNING FROM SCRATCH WITH SENTDEX/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decision Tree/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SVM/index.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tensorflow/check.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WebApplication/templates/home.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../index.py" afterDir="false" />
@@ -22,11 +22,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Decision Tree/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
+            <state relative-caret-position="-99">
               <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SVM/index.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="72" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="72" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -43,6 +55,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>feat</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -58,6 +75,7 @@
         <option value="$PROJECT_DIR$/KNN/index_from_scratch.py" />
         <option value="$PROJECT_DIR$/KNN/index.py" />
         <option value="$PROJECT_DIR$/Decision Tree/index.py" />
+        <option value="$PROJECT_DIR$/SVM/index.py" />
       </list>
     </option>
   </component>
@@ -84,7 +102,7 @@
             <path>
               <item name="Machine Learning Bootcamp" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine Learning Bootcamp" type="462c0819:PsiDirectoryNode" />
-              <item name="Decision Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="SVM" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,7 +122,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.index (2)">
+  <component name="RunManager" selected="Python.index (1)">
+    <configuration name="index (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Machine Learning Bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="index (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine Learning Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,27 +207,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index_from_scratch (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Machine Learning Bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Logistic Regression" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logistic Regression/index_from_scratch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="index_from_scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Machine Learning Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.index (1)" />
         <item itemvalue="Python.index (2)" />
         <item itemvalue="Python.index" />
         <item itemvalue="Python.index_from_scratch" />
         <item itemvalue="Python.index_bootCamp" />
-        <item itemvalue="Python.index_from_scratch (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +251,15 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
@@ -242,15 +269,15 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26793557" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26793557" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.329429" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329429" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -355,8 +382,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Decision Tree/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
+        <state relative-caret-position="-99">
           <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVM/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="72" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="72" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
