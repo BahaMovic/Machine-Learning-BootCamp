@@ -1,0 +1,47 @@
+[33mcommit 35ae80ba8f28770c2100944632c2423a7057394b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: bahamovic <=>
+Date:   Mon Apr 1 17:26:26 2019 +0200
+
+    8.Recommender System
+
+[33mcommit 83e7cb95ca306746dccca6eeae7e3cf48e3c816f[m
+Author: bahamovic <=>
+Date:   Mon Apr 1 14:01:56 2019 +0200
+
+    7.PCA
+
+[33mcommit 8f69fbc441862ff6608d724bd7025fd8bccbb456[m
+Author: bahamovic <=>
+Date:   Mon Apr 1 13:34:59 2019 +0200
+
+    6.KMeans Cluster
+
+[33mcommit 324dfbb5a8a766a9e3961d8d0b07caaa3fa03575[m
+Author: bahamovic <=>
+Date:   Mon Apr 1 13:01:07 2019 +0200
+
+    5.SVM
+
+[33mcommit 85c9154009d7f5f7deafd4de99b304313bc34fa6[m
+Author: bahamovic <=>
+Date:   Mon Apr 1 10:26:11 2019 +0200
+
+    4.Decision Tree
+
+[33mcommit cf090eead687c2808ded87166673c16d915ad48a[m
+Author: bahamovic <=>
+Date:   Sun Mar 31 16:18:00 2019 +0200
+
+    3.KNN
+
+[33mcommit 60dccfc0e593a102c04eff74150e274380176cbd[m
+Author: bahamovic <=>
+Date:   Sun Mar 31 12:55:01 2019 +0200
+
+    2.Logistic Regression
+
+[33mcommit c99241dfb81a07164b3eee8fcb1b633a9f4bb05c[m
+Author: bahamovic <=>
+Date:   Sun Mar 31 03:08:16 2019 +0200
+
+    1.Linear Regression
